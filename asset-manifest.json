@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/springdamper/static/css/main.d392e128.css",
+    "main.js": "/springdamper/static/js/main.2cbf9627.js",
+    "index.html": "/springdamper/index.html",
+    "main.d392e128.css.map": "/springdamper/static/css/main.d392e128.css.map",
+    "main.2cbf9627.js.map": "/springdamper/static/js/main.2cbf9627.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d392e128.css",
+    "static/js/main.2cbf9627.js"
+  ]
+}
